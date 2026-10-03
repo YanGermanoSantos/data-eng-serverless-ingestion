@@ -1,5 +1,3 @@
-
-```markdown
 # 🌦️ Serverless REST API Data Pipeline (AWS)
 
 Uma pipeline de ingestão de dados totalmente *serverless* na AWS para extração, tratamento básico e carga (*EL*) de dados meteorológicos de uma API REST para a camada **Raw (Bronze)** de um Data Lake no Amazon S3.
@@ -47,5 +45,3 @@ Ao adotar uma arquitetura *Serverless*, reduzimos o custo operacional a zero em 
 ├── pyproject.toml           # Configuração de dependências do Poetry
 ├── .gitignore               # Exclusão de artefatos de build e credenciais
 └── README.md
-
-```
